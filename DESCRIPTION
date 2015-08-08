@@ -1,0 +1,10 @@
+Package: oneway
+Type: Package
+Title: Oneway Analysis of Variance
+Version: 0.1
+Date: 2015-08-02
+Author: Neeraj Kumar
+Maintainer: Neeraj Kumar <nekumar@mix.wvu.edu>
+Description: Performs a oneway analysis of variance
+License: GPL-3
+LazyData: TRUE
